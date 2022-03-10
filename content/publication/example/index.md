@@ -15,7 +15,7 @@ authors:
 - Kui Ren
 
 date: "2021-11"
-doi: "0.1145/3485730.3485945"
+doi: "https://doi.org/10.1145/3485730.3485945"
 
 
 # Publication type.
@@ -34,15 +34,15 @@ abstract: With the advance in automatic speech recognition, voice user interface
 tags: []
 
 # Display this page in the Featured widget? True
-featured: false
+featured: True
 
 # Custom links (uncomment lines below)
 # links:
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
-url_code: ''
+url_pdf: 'https://doi.org/10.1145/3485730.3485945'
+url_code: 'https://github.com/TitaniumLiu/Wavoice'
 url_dataset: ''
 url_poster: ''
 url_project: ''
