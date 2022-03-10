@@ -33,8 +33,8 @@ abstract: With the advance in automatic speech recognition, voice user interface
 
 tags: []
 
-# Display this page in the Featured widget?
-featured: true
+# Display this page in the Featured widget? True
+featured: false
 
 # Custom links (uncomment lines below)
 # links:
