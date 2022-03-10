@@ -6,13 +6,7 @@ title: "Wavoice: A Noise-resistant Multi-modal Speech Recognition System Fusing 
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - admin
-- Ming Gao
-- Feng Lin
-- Chao Wang
-- Zhongjie Ba 
-- Jinsong Han
-- Wenyao Xu 
-- Kui Ren
+- Robert Ford
 
 date: "2021-11"
 doi: "0.1145/3485730.3485945"
