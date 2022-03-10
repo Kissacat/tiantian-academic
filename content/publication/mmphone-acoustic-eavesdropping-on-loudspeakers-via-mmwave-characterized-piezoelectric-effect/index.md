@@ -13,6 +13,12 @@ authors:
   - Li Lu
   - Wenyao Xu
   - Kui Ren
+
+publication: In *EEE International Conference on Computer Communication*
+publication_short: In *INFOCOM'2022*
+
+
+
 abstract: >-
   More and more people turn to online voice communication with
   loudspeaker-equipped devices due to its convenience. To prevent speech
