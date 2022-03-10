@@ -1,18 +1,18 @@
 ---
-title: "An example conference paper"
+title: "Wavoice: A Noise-resistant Multi-modal Speech Recognition System Fusing mmWave and Audio Signals"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- **Tiantian Liu** 
--  Ming Gao
--  Feng Lin
--  Chao Wang
--  Zhongjie Ba 
--  Jinsong Han
--  Wenyao Xu 
--  Kui Ren
+- **Tiantian Liu**
+- Ming Gao
+- Feng Lin
+- Chao Wang
+- Zhongjie Ba 
+- Jinsong Han
+- Wenyao Xu 
+- Kui Ren
 
 date: "2021-11"
 doi: "0.1145/3485730.3485945"
@@ -57,3 +57,4 @@ image:
   focal_point: ""
   preview_only: false
 
+---
