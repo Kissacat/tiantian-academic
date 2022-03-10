@@ -14,7 +14,7 @@ authors:
   - Wenyao Xu
   - Kui Ren
 
-publication: In *EEE International Conference on Computer Communication*
+publication: In *IEEE International Conference on Computer Communication*
 publication_short: In *INFOCOM'2022*
 
 
