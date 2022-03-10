@@ -4,10 +4,10 @@
 widget: featurette
 
 # This file represents a page section.
-headless: false
+headless: true
 
 # Order that this section appears on the page.
-weight: false
+weight: 30
 
 title: Skills
 subtitle:
