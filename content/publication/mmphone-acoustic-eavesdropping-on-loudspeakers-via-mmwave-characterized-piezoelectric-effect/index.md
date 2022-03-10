@@ -13,12 +13,8 @@ authors:
   - Li Lu
   - Wenyao Xu
   - Kui Ren
-
 publication: In *IEEE International Conference on Computer Communication*
 publication_short: In *INFOCOM'2022*
-
-
-
 abstract: >-
   More and more people turn to online voice communication with
   loudspeaker-equipped devices due to its convenience. To prevent speech
@@ -55,7 +51,7 @@ abstract: >-
 
   types of loudspeakers.
 draft: false
-featured: true
+featured: false
 image:
   filename: infocom2021.jpg
   focal_point: Smart
