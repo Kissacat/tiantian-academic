@@ -50,8 +50,7 @@ abstract: >-
   incident angles of sound waves (within 55 degrees) and different
 
   types of loudspeakers.
-draft: false
-featured: false
+featured: true
 image:
   filename: infocom2021.jpg
   focal_point: Smart
