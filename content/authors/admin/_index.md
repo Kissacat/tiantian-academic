@@ -1,7 +1,7 @@
 ---
 title: Tiantian Liu
 role: Ph.D. Student
-avatar_filename: tiantian.jpg
+avatar_filename: avatar.jpg
 bio: My research interests include wireless sensing, mobile computing, and deep
   learning.
 interests:
