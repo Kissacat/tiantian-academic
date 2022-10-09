@@ -4,7 +4,8 @@ publication_types:
   - "0"
   - "1"
 authors:
-  - Chao Wang Feng Lin
+  - Chao Wang
+  - Feng Lin
   - Tiantian Liu
   - Kaidi Zheng
   - Zhibo Wang
