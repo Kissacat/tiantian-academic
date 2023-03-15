@@ -22,7 +22,7 @@ url_pdf: https://doi.org/10.1145/3485730.3485945
 publication_types:
   - "1"
 authors:
-  - <font color=blue>**Tiantian Liu**</font>
+  - **Tiantian Liu**
   - Ming Gao
   - Feng Lin
   - Chao Wang
