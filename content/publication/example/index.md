@@ -22,7 +22,7 @@ url_pdf: https://doi.org/10.1145/3485730.3485945
 publication_types:
   - "1"
 authors:
-  - Tiantian Liu
+  - "**Tiantian Liu**"
   - Ming Gao
   - Feng Lin
   - Chao Wang
@@ -42,7 +42,7 @@ publication: In *Proceedings of the 19th ACM Conference on Embedded Networked
 featured: true
 date: 2021-11-10T14:03:09.597Z
 url_slides: ""
-subtitle: <font color=red>**(Best Paper Award Nomination)**</font>
+subtitle: "**(Best Paper Award Nomination)**"
 tags: []
 url_poster: ""
 url_code: https://github.com/TitaniumLiu/Wavoice
