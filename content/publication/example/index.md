@@ -36,7 +36,7 @@ publication_short: In *SenSys'2021*
 url_source: ""
 url_video: ""
 title: "Wavoice: A Noise-resistant Multi-modal Speech Recognition System Fusing
-  mmWave and Audio Signals *(Best Paper Award Nomination)*"
+  mmWave and Audio Signals (Best Paper Award Nomination)"
 publication: In *Proceedings of the 19th ACM Conference on Embedded Networked
   Sensor Systems*
 featured: false
@@ -48,4 +48,3 @@ url_poster: ""
 url_code: https://github.com/TitaniumLiu/Wavoice
 doi: https://doi.org/10.1145/3485730.3485945
 ---
-<font color=red>**(Best Paper Award Nomination)**</font>
