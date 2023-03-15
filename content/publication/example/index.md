@@ -39,7 +39,7 @@ title: "Wavoice: A Noise-resistant Multi-modal Speech Recognition System Fusing
   mmWave and Audio Signals"
 publication: In *Proceedings of the 19th ACM Conference on Embedded Networked
   Sensor Systems*
-featured: true
+featured: false
 date: 2021-11-10T14:03:09.597Z
 url_slides: ""
 subtitle: "**(Best Paper Award Nomination)**"
