@@ -28,10 +28,10 @@ education:
   courses:
     - course: PhD in Cyberspace Security
       institution: Zhejiang University
-      year: 2020
+      year: ""
     - course: BSc in Information Engineering
       institution: Zhejiang University
-      year: 2016
+      year: ""
 email: tiantian@zju.edu.cn
 superuser: true
 highlight_name: true
