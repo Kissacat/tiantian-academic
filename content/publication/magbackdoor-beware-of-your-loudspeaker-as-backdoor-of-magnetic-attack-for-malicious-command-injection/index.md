@@ -33,10 +33,9 @@ abstract: An audio system containing loudspeakers and microphones is the
   wide range of smart devices involving 16 smartphones, four laptops, two
   tablets, and three smart speakers, achieving an average 95% injection success
   rate with high-quality injected acoustic signals.
-draft: false
 featured: false
 url_code: https://github.com/TitaniumLiu/MagBackdoor/tree/main
-subtitle: "2023 IEEE S&P Travel Grants"
+subtitle: "**(2023 IEEE S&P Travel Grants)**"
 image:
   filename: magbackdoor.png
   focal_point: Smart
