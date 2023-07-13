@@ -34,7 +34,7 @@ abstract: An audio system containing loudspeakers and microphones is the
   tablets, and three smart speakers, achieving an average 95% injection success
   rate with high-quality injected acoustic signals.
 draft: false
-featured: true
+featured: false
 projects:
   - github:https://github.com/TitaniumLiu/MagBackdoor/tree/main
 image:
