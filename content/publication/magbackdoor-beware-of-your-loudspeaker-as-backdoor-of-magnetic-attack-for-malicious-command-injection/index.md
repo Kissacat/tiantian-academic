@@ -35,6 +35,8 @@ abstract: An audio system containing loudspeakers and microphones is the
   rate with high-quality injected acoustic signals.
 draft: false
 featured: true
+projects:
+  - github:https://github.com/TitaniumLiu/MagBackdoor/tree/main
 image:
   filename: magbackdoor.png
   focal_point: Smart
