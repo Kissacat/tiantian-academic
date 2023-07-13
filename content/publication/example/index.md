@@ -43,7 +43,7 @@ publication: In *Proceedings of the 19th ACM Conference on Embedded Networked
 featured: false
 date: 2021-11-10T14:03:09.597Z
 url_slides: ""
-subtitle: "**(Best Paper Award Nomination)**"
+subtitle: "**(SIGMOBILE Research Highlights, Best Paper Award Nomination)**"
 tags: []
 url_poster: ""
 url_code: https://github.com/TitaniumLiu/Wavoice
