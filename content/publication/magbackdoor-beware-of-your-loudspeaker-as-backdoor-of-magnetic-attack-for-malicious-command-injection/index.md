@@ -1,6 +1,7 @@
 ---
 title: "MagBackdoor: Beware of Your Loudspeaker as Backdoor of Magnetic Attack
-  for Malicious Command Injection"
+  for Malicious Command Injection (2023 IEEE S&P Travel Grants)"
+subtitle: "**(2023 IEEE S&P Travel Grants)**"
 publication_types:
   - "1"
 authors:
@@ -34,11 +35,10 @@ abstract: An audio system containing loudspeakers and microphones is the
   tablets, and three smart speakers, achieving an average 95% injection success
   rate with high-quality injected acoustic signals.
 featured: false
-url_code: https://github.com/TitaniumLiu/MagBackdoor/tree/main
-subtitle: "**(2023 IEEE S&P Travel Grants)**"
 image:
   filename: magbackdoor.png
   focal_point: Smart
   preview_only: false
 date: 2023-03-15T02:40:23.116Z
+url_code: https://github.com/TitaniumLiu/MagBackdoor/tree/main
 ---
